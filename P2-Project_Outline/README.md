@@ -5,6 +5,8 @@ For this assignment, you will submit a high-level outline of your project. This 
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
 ## Submission Instructions
+
+### Overview
 This is a Web App for Parent-Teacher/Administration Communication in School. It has the following features:
 •	Takes topic of conversation by the user
 •	Searches for name, email, phone number of the candidate
@@ -12,10 +14,6 @@ This is a Web App for Parent-Teacher/Administration Communication in School. It 
 •	Updates the user to save the last communication against the candidate’s profile and update it. 
 •	Allows user to send email to the candidate
 •	Receives email from candidate
-
-
-### Overview
-Include overview here
 
 ### Features
 •	User can log in and avail profile information
