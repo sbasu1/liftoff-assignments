@@ -5,14 +5,34 @@ For this assignment, you will submit a high-level outline of your project. This 
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
 ## Submission Instructions
+This is a Web App for Parent-Teacher/Administration Communication in School. It has the following features:
+•	Takes topic of conversation by the user
+•	Searches for name, email, phone number of the candidate
+•	Lists details of the candidates
+•	Updates the user to save the last communication against the candidate’s profile and update it. 
+•	Allows user to send email to the candidate
+•	Receives email from candidate
+
 
 ### Overview
 Include overview here
+
 ### Features
-Include Features here
+•	User can log in and avail profile information
+•	User can search information of candidates
+•	User can read, create, update, and delete conversations with candidates
+
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+MySql
+Hibernate
+Thymeleaf Templates
+JavaScript
+Angular
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will need to learn interaction of users from both ends. Also how to connect with candidates through emails. 
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/cSprUX7l/liftoff-trello-board
